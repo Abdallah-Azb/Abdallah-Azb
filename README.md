@@ -1,68 +1,80 @@
 # Hi, I'm Abdallah Azab 👋
 
-**Senior Flutter Developer & Mobile Tech Lead** — Mansoura, Egypt · Open to KSA / UAE
+**Senior Flutter Developer | Mobile Tech Lead** · Cairo, Egypt · Open to relocation to Saudi Arabia or UAE
 
-I build and lead teams that ship production mobile apps. Over the past 5+ years I've delivered **20+ cross-platform applications** across FinTech, healthcare, real estate, logistics and government, and spent the last 2 years leading a mobile team as Tech Lead.
+I've been building Flutter apps for 6 years and leading a mobile team for the last 2. I've shipped 20+ iOS and Android apps for clients in Egypt, Saudi Arabia and the UAE, mostly in fintech, healthcare, real estate and government.
 
-Beyond mobile, I own the infrastructure side — Docker, Linux server administration, and CI/CD pipelines — which means I can take a product from first commit to production without waiting on anyone.
+A lot of my recent work is connecting Flutter apps to Frappe ERP backends, with real-time updates over Socket.IO. I also run our CI/CD, Docker deployments and Linux servers, so I can take an app from first commit to the stores.
 
 ---
 
 ## What I work with
 
-**Mobile** &nbsp;&nbsp; Flutter · Dart · Swift · iOS & Android · Platform Channels · Flavors · FVM
+**Mobile:** Flutter, Dart, Swift, Kotlin, iOS, Android, Platform Channels, Flavors, FVM, Arabic/RTL localization
 
-**Architecture** &nbsp;&nbsp; Clean Architecture · Modular · BLoC · Cubit · MVVM · Provider · GetX
+**Architecture:** Clean Architecture, Modular, SOLID, BLoC, Cubit, Riverpod, Provider, GetX, MVVM
 
-**DevOps & Infra** &nbsp;&nbsp; Docker · Linux server administration · CI/CD (Codemagic, Firebase App Distribution) · Git
+**APIs:** REST, GraphQL, WebSockets, Socket.IO, Dio, Frappe ERP integration
 
-**Backend & APIs** &nbsp;&nbsp; REST · GraphQL · WebSockets · Socket.IO · Frappe ERP integration
+**Data:** Firebase (Auth, Firestore, Cloud Messaging), Hive, ObjectBox, SQLite
 
-**Data** &nbsp;&nbsp; Firebase Suite · Hive · ObjectBox · SQLite · SharedPreferences
+**Payments:** Stripe, Paymob, Fawry, Apple Pay, Google Pay
 
-**Payments** &nbsp;&nbsp; Stripe · Paymob · Fawry · Apple Pay · Google Pay
+**DevOps:** Docker, Linux, Codemagic, Firebase App Distribution, Git
 
-**Testing** &nbsp;&nbsp; Unit · Widget · Integration · TDD · Mockito · bloc_test
+**Testing:** Unit, Widget and Integration tests, TDD, Mockito, bloc_test
 
 ---
 
 ## Selected work
 
-**AlUla Livestock Registry & Census Platform** — *Government programme, Saudi Arabia · in partnership with ADT (Germany)*
-National-scale livestock registration and census system for the AlUla Governorate. Led the engineering team, ran requirements and coordination directly with the German partner and client stakeholders, defined the technical architecture, and managed deployment infrastructure through to production rollout.
+**AlUla Livestock Registry & Census Platform** (Saudi government program, with ADT Germany)
+Livestock registration and census system for AlUla Governorate. I led the architecture, the team and the deployment through launch.
 
-**KAFD** — *King Abdullah Financial District, Riyadh*
-Mobile application for one of Saudi Arabia's flagship development projects.
+**Salam Veterinary Hospital** (Saudi Arabia)
+Three mobile apps for one of the world's largest veterinary hospitals, connected to its Frappe ERP over REST and Socket.IO: Reception (intake and billing), Doctor (prescriptions and animal follow-up, including camels) and Owner (live statistics).
 
-**60IX** — Lifestyle and FinTech application
+**Nufouth**
+Real estate and residential project management on Frappe ERP, with apps for employees, managers and end users: listings, maintenance requests and task tracking.
+[Android](https://play.google.com/store/apps/details?id=com.nofouth.data.value.nofouth) · [iOS](https://apps.apple.com/eg/app/nufouth/id6747889198)
+
+**KAFD**
+Mobile app for the King Abdullah Financial District in Riyadh.
+
+**Skyloov**
+Real estate investment platform in the UAE.
+[iOS](https://apps.apple.com/eg/app/skyloov-%D8%B3%D9%83%D8%A7%D9%8A-%D9%84%D9%88%D9%88%D9%81/id1499596800)
+
+**IX HR**
+HR app for companies: attendance, leave requests and approvals, connected to Frappe ERP.
+[iOS](https://apps.apple.com/eg/app/ix-hr/id6794821308)
+
+**60IX**
+Lifestyle and fintech app.
 [Android](https://play.google.com/store/apps/details?id=com.sixty.ix.sixty_ix) · [iOS](https://apps.apple.com/eg/app/60ix/id6749853854)
 
-**Skyloov** — Real estate investment platform serving users across the UAE
-[Android](https://play.google.com/store/search?q=skyloov&c=apps&hl=en) · [iOS](https://apps.apple.com/eg/app/skyloov-%D8%B3%D9%83%D8%A7%D9%8A-%D9%84%D9%88%D9%88%D9%81/id1499596800)
+**Oyoon Al Marifah**
+Educational quiz app connected to Frappe ERP.
+[Android](https://play.google.com/store/apps/details?id=com.youthhouse.quiz) · [iOS](https://apps.apple.com/eg/app/%D8%B9%D9%8A%D9%88%D9%86-%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D9%81%D8%A9/id6692607070)
 
-**Athmany POS** — Point of Sale system with a dedicated Kitchen Display Screen app
+**Athmany POS**
+Point of sale system with a kitchen display app.
 [iOS](https://apps.apple.com/eg/app/athmany-pos/id1583755282)
 
-**Arto** — Dual-sided marketplace platform for creatives
-[Android](https://play.google.com/store/apps/details?id=net.smartangle.arto) · [iOS](https://apps.apple.com/eg/app/arto-%D8%A7%D8%B1%D8%AA%D9%88/id1608210325)
-
-**Andorra** — Smart building access and community management
+**Andorra**
+Smart building access and community management.
 [Android](https://play.google.com/store/apps/details?id=io.tenex.andorra) · [iOS](https://apps.apple.com/eg/app/andorra-village/id6459451013)
 
-**Salam Veterinary Hospital System** — Multi-app healthcare ecosystem (Doctor, Reception, Customer, Owner)
-
-Also: enterprise HR platform, LMS, e-commerce with multi-gateway checkout, and real-time fleet tracking.
+Also: a stock market app with real-time prices and charts, an LMS for educational centers, and Arto, a marketplace for creatives.
 
 ---
 
 ## Currently
 
-Mobile Tech Lead at **IX Solutions**, and Senior Flutter Developer (part-time) at **Skyloov**.
+Mobile Tech Lead at **IX Solutions** and Senior Flutter Developer (part-time) at **Skyloov**.
 
-Open to Senior / Lead mobile roles in **Saudi Arabia, the UAE, or Cairo**.
+Open to Senior or Lead Flutter roles in **Saudi Arabia, the UAE or Cairo**.
 
----
-
-## Reach me
+## Contact
 
 [LinkedIn](https://www.linkedin.com/in/abdallahazab) · [gabdallahazab@gmail.com](mailto:gabdallahazab@gmail.com)
